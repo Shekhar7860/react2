@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1012229639116",
+    "firebase_url": "https://kinder-d4e6e.firebaseio.com",
+    "project_id": "kinder-d4e6e",
+    "storage_bucket": "kinder-d4e6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012229639116:android:c99c750ed972624e862b69",
+        "android_client_info": {
+          "package_name": "com.kindergartenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012229639116-h85hqugmo9iaunhk5o1pla9t7p5b5lcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ZwGa7LIbswrSjMXpzEVlhyq9-rvJSdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012229639116-h85hqugmo9iaunhk5o1pla9t7p5b5lcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
